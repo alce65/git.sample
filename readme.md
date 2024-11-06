@@ -1,6 +1,6 @@
 # Git Sample
 
-Esto wes un ejemplo del uso de Git
+Esto es un ejemplo del uso de Git
 
 Estados de un fichero
 
